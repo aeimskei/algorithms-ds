@@ -37,3 +37,4 @@ Note: This question has been asked a lot as well.
 # Order of Exercises
 
 * Reversestring
+* Palidrome
