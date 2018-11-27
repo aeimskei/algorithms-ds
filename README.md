@@ -33,8 +33,8 @@ function fib(n) {
 ```
 
 Note: This question has been asked a lot as well. 
-
 # Order of Exercises
 
-* Reversestring
-* Palidrome
+* [Reversestring ](https://repl.it/@aeimskei/algo-ds-js-Reversestring)
+* [Palindrome](https://repl.it/@aeimskei/algo-ds-js-Palindrome)
+* Reverse an Int
