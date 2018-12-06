@@ -35,6 +35,6 @@ function fib(n) {
 Note: This question has been asked a lot as well. 
 # Order of Exercises
 
-* [Reversestring ](https://repl.it/@aeimskei/algo-ds-js-Reversestring)
+* [ReverseString ](https://repl.it/@aeimskei/algo-ds-js-Reversestring)
 * [Palindrome](https://repl.it/@aeimskei/algo-ds-js-Palindrome)
-* Reverse an Int
+* [ReverseInt](https://repl.it/@aeimskei/algo-ds-reverseint)
