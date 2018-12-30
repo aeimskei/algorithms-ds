@@ -41,3 +41,4 @@ Note: This question has been asked a lot as well.
 * [MaxChar](https://repl.it/@aeimskei/algo-ds-js-maxchar)
 * [FizzBuzz](https://repl.it/@aeimskei/algo-ds-js-fizzbuzz)
 * [ArrayChunk](https://repl.it/@aeimskei/algo-ds-js-arraychunk)
+* [Anagrams](https://repl.it/@aeimskei/algo-ds-js-anagrams)
