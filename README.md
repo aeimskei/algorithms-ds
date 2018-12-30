@@ -42,3 +42,4 @@ Note: This question has been asked a lot as well.
 * [FizzBuzz](https://repl.it/@aeimskei/algo-ds-js-fizzbuzz)
 * [ArrayChunk](https://repl.it/@aeimskei/algo-ds-js-arraychunk)
 * [Anagrams](https://repl.it/@aeimskei/algo-ds-js-anagrams)
+* [Capitalize](https://repl.it/@aeimskei/algo-ds-js-capitalize)
