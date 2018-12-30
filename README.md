@@ -38,4 +38,6 @@ Note: This question has been asked a lot as well.
 * [ReverseString ](https://repl.it/@aeimskei/algo-ds-js-Reversestring)
 * [Palindrome](https://repl.it/@aeimskei/algo-ds-js-Palindrome)
 * [ReverseInt](https://repl.it/@aeimskei/algo-ds-reverseint)
-* [MaxChars](https://repl.it/@aeimskei/algo-ds-maxchar)
+* [MaxChar](https://repl.it/@aeimskei/algo-ds-maxchar)
+* [FizzBuzz](https://repl.it/@aeimskei/algo-ds-fizzbuzz)
+* [ArrayChunk](https://repl.it/@aeimskei/algo-ds-arraychunk)
