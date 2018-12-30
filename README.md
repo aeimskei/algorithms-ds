@@ -35,7 +35,7 @@ function fib(n) {
 Note: This question has been asked a lot as well. 
 # Order of Exercises
 
-* [ReverseString ](https://repl.it/@aeimskei/algo-ds-js-reversestring)
+* [ReverseString](https://repl.it/@aeimskei/algo-ds-js-reversestring)
 * [Palindrome](https://repl.it/@aeimskei/algo-ds-js-palindrome)
 * [ReverseInt](https://repl.it/@aeimskei/algo-ds-js-reverseint)
 * [MaxChar](https://repl.it/@aeimskei/algo-ds-js-maxchar)
@@ -43,3 +43,4 @@ Note: This question has been asked a lot as well.
 * [ArrayChunk](https://repl.it/@aeimskei/algo-ds-js-arraychunk)
 * [Anagrams](https://repl.it/@aeimskei/algo-ds-js-anagrams)
 * [Capitalize](https://repl.it/@aeimskei/algo-ds-js-capitalize)
+* [PrintSteps](https://repl.it/@aeimskei/algo-ds-js-printsteps)
