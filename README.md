@@ -44,3 +44,4 @@ Note: This question has been asked a lot as well.
 * [Anagrams](https://repl.it/@aeimskei/algo-ds-js-anagrams)
 * [Capitalize](https://repl.it/@aeimskei/algo-ds-js-capitalize)
 * [PrintSteps](https://repl.it/@aeimskei/algo-ds-js-printsteps)
+* [Pyramid](https://repl.it/@aeimskei/algo-ds-js-pyramid)
